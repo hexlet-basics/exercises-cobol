@@ -1,7 +1,10 @@
 ---
 
 language:
-  docker_image: "ghcr.io/hexlet-basics/exercises-typescript"
-  extension: ts
-  exercise_filename: index.ts
-  exercise_test_filename: test.ts
+  docker_image: "ghcr.io/hexlet-basics/exercises-cobol"
+  extension: cob
+  exercise_filename: index.cob
+  exercise_test_filename: test.cob
+  learn_as: first_language
+  progress: in_development
+  name: COBOL
